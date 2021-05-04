@@ -1,0 +1,45 @@
+#h1{
+    font-weight: bold;
+    text-align: center;
+    color:#35008b;
+    font-family:'Oswald',sans-serif; width:100%;
+    margin-top:8%;
+    font-size: 60px;
+    letter-spacing: 5px;
+    margin-bottom: 3%;
+}
+
+
+#row{
+    height: 60px;
+    width: 50%;
+    
+}
+
+#tab{
+    box-shadow: 0px 0px 10px 10px;
+    background-color: rgb(233, 15, 149);
+    margin:auto;
+    width: 22%;
+    margin-bottom: 2%;
+}
+
+#sub{
+    width:26%;
+    font-size: 20px;
+    border-radius: 5px;
+    color:blueviolet;
+    background-color:lightslategray;
+    height: 50px;
+    margin-top: 25%;
+    text-align: center;
+    margin-left: 38%;
+    
+}
+
+#num,#num1{
+    margin-left: 42%;
+    margin-top: 10px;
+    font-family: bold;
+    font-size: 15px;
+}
